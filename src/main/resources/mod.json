@@ -1,0 +1,11 @@
+{
+
+  // Java verticle
+  "main":"com.saurabhsaxena.Main",
+
+  "description":"Module to show case use of Rxjava with Vertx framework",
+  "licenses": ["The Apache Software License Version 2.0"],
+  "author": "Saurabh Saxena",
+
+  "auto-redeploy": true
+}
